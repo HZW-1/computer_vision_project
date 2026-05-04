@@ -1,15 +1,20 @@
-# 忽略数据文件
+
 data/
-# 但是保留 data 目录结构（可选）
+
 !data/.gitkeep
 
-# 忽略具体的大文件
+references/
+
+docs/
+
 *.pdf
 *.csv
 *.zip
 *.tar.gz
+*.pth
 
-# 忽略系统生成文件
 __pycache__/
 .DS_Store
 .ipynb_checkpoints/
+
+logs/

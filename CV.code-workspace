@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../P_TransReID"
+		},
+		{
+			"path": "../P_Others"
+		}
+	],
+	"settings": {}
+}
